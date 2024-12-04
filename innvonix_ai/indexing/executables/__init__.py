@@ -1,0 +1,2 @@
+from indexing.executables.create_embeddings import create_new_embedding
+
