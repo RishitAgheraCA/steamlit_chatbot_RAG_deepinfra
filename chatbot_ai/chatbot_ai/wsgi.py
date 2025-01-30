@@ -1,5 +1,5 @@
 """
-WSGI config for innvonix_ai project.
+WSGI config for chatbot_ai project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'innvonix_ai.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'chatbot_ai.settings')
 
 application = get_wsgi_application()

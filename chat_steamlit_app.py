@@ -63,7 +63,7 @@ def search_similar_documents(question_embeddings):
 
 
 # Streamlit UI
-st.title("ChatINNVONIX")
+st.title("Chat")
 
 st.write(
     "This app allows you to provide a context and question, then ask follow-up questions, while maintaining the "
