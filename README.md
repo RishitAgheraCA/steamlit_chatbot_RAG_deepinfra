@@ -5,6 +5,8 @@
 This project demonstrates a Retrieval-Augmented Generation (RAG) architecture for a chatbot, deployed as a quick Proof of Concept (POC) using **DeepInfra**, **PostgreSQL**, and **Streamlit**. It leverages **Llama 3-70B** for generating context-aware responses and implements a seamless user interface for interaction.
 
 ---
+![Alt Text](chatInnvonix_steamlit_app-12-04-2024_01_04_PM.png)
+---
 
 ## Key Features
 
